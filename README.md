@@ -1,0 +1,2 @@
+# pocketStarcraftConsole
+Console for pocketStarcraft
